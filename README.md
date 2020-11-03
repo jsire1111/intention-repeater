@@ -1,3 +1,23 @@
+## --> TO ANYONE READING THIS ON MY PERSONAL GITHUB <--
+
+### BEGIN jsire1111
+
+I have forked both the original *Intention Repeater* and *Intention Repeater*, CUDA version from [tsweet77](https://github.com/tsweet77):
+
+[twseet77/intention-repeater](https://github.com/tsweet77/intention-repeater)
+
+[tsweet77/repeater-max-cuda](https://github.com/tsweet77/repeater-max-cuda)
+
+I have done this so that I may freely restructure the repo and history in a way that makes sense to me.
+
+Eventually, I will start refactoring, as I would like to try utilizing this on a cloud-hosted GPU Jupyter Notebook.
+
+Everything currently outside this one block of text is from the original author. Please visit the original repos or the [Intention Repeater](https://www.intentionrepeater.com/) website for more information.
+
+Thank you and namaste.
+
+### END jsire1111
+
 Hello All,
 
 Introducing my free, open-source Intention Repeater. It repeats your intention 1+ Million times per second. So, if you use “I am calm” for instance, it will most likely calm you if you are open minded and energy sensitive. It works with what's called a Servitor (programmed intelligent energy) 2000+ hours/20 years in co-creation with 100’s of other entities. It can be used for affirmations, or to charge up objects. See the PDF in this project for info on how to charge up an object. The Servitor in this case is the black hole system HR 6819.
